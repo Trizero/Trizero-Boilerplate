@@ -1,8 +1,9 @@
 TrizeroBoilerplate è una semplice base per creare siti sfruttando [Propel](http://www.propelorm.org/) e [Twig](http://twig.sensiolabs.org/).
 
 In questo file sono incluse le seguenti release
--Versione 1.6 di Propel
--Versione 1.2.0 di Twig
+
++ Versione 1.6 di Propel
++ Versione 1.2.0 di Twig
 
 
 -----
@@ -37,7 +38,9 @@ Se si vuole utilizzare Twig ma non propel commentare le righe 4,5 e 6 del file b
 
 ##Contatti
 Per ogni richiesta, bug, suggerimento su come migliorare questa base contattare
+
 mauro@trizero.it
+
 giorgio@trizero.it
 
 O utilizzare la voce Issue di Github
